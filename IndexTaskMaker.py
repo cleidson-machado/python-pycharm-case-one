@@ -7,6 +7,10 @@ from Util import Cleaner as Clean
 from Util import PlaceStorageStrings as Configure
 
 
+################################################## ATTENTION!
+# FIRST COMMIT WITH OLD DEVELOP .py FILES
+################################################## ATTENTION!
+
 # IndexTaskMaker / PURPOSE: To Read data from excel tables and create new  Join data tables.
 # PatternTableViewOne / PURPOSE: .......
 # Cleaner             / PURPOSE: .......
