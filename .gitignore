@@ -1,4 +1,6 @@
-*.xls
 *.xlsx
 *.csv
+*.ini
 venv/*
+Demand_Files/*
+WorkExcelOutPutFiles/*
