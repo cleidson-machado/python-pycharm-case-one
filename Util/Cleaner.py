@@ -1,6 +1,5 @@
 import re
 
-
 # HERE REMOVE JUST THE @ SYMBOL AND PUT A SPACE IR YOUR PLACE..
 def remove_at_sign(s):
     return re.sub('@', ' ', s)
